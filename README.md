@@ -1,8 +1,7 @@
-# NightFall35 - Terminal-Style Hacker README (Matrix Background + Glitch Typing Effect)
+# NightFall35
 
 <div align="center">
-  <!-- MATRIX BACKGROUND -->
-  <img src="https://i.imgur.com/Zjz0Q2C.gif" width="100%" alt="Matrix Rain Background" />
+
 
   <!-- GLITCH BANNERS -->
 
